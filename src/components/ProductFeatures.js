@@ -18,11 +18,6 @@ const ProductFeatures = () => {
             className="p-6 bg-white shadow-md rounded-lg"
             whileHover={{ scale: 1.05 }}
           >
-            <img
-              src="https://images.unsplash.com/photo-1591017400740-32abafccafe6?auto=format&fit=crop&w=1650&q=80"
-              alt="High Quality"
-              className="rounded-lg mb-4"
-            />
             <h3 className="text-xl font-semibold mb-4 text-green-600">High Quality</h3>
             <p className="text-gray-600">We offer top-notch products with exceptional quality.</p>
           </motion.div>
@@ -30,11 +25,7 @@ const ProductFeatures = () => {
             className="p-6 bg-white shadow-md rounded-lg"
             whileHover={{ scale: 1.05 }}
           >
-            <img
-              src="https://images.unsplash.com/photo-1523473827534-68e46ae60a62?auto=format&fit=crop&w=1650&q=80"
-              alt="Fast Shipping"
-              className="rounded-lg mb-4"
-            />
+        
             <h3 className="text-xl font-semibold mb-4 text-green-600">Fast Shipping</h3>
             <p className="text-gray-600">Quick and reliable shipping with tracking options.</p>
           </motion.div>
@@ -42,11 +33,7 @@ const ProductFeatures = () => {
             className="p-6 bg-white shadow-md rounded-lg"
             whileHover={{ scale: 1.05 }}
           >
-            <img
-              src="https://images.unsplash.com/photo-1565375102065-537ca6018196?auto=format&fit=crop&w=1650&q=80"
-              alt="Easy Integration"
-              className="rounded-lg mb-4"
-            />
+          
             <h3 className="text-xl font-semibold mb-4 text-green-600">Easy Integration</h3>
             <p className="text-gray-600">Integrate with top e-commerce platforms easily.</p>
           </motion.div>
